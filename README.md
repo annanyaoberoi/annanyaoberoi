@@ -51,6 +51,7 @@ I'm a Computer Science undergrad passionate about turning data into decisions an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 [![Wazuh](https://img.shields.io/badge/Wazuh-006DE0?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
 ---
 
@@ -67,7 +68,12 @@ I'm a Computer Science undergrad passionate about turning data into decisions an
 | 📦 [Power BI Blinkit Dashboard](https://github.com/annanyaoberoi/Powerbi_Blinkit_dashboard) | Blinkit delivery data visualization with outlet and item-level insights | Power BI · DAX |
 
 ---
+## 💻 LeetCode Stats
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/annanyaoberoi?theme=dark&font=Fira+Code&ext=heatmap" />
+</div>
+---
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -80,6 +86,7 @@ I'm a Computer Science undergrad passionate about turning data into decisions an
 </div>
 
 ---
+
 
 ## 🏆 GitHub Trophies
 
