@@ -73,7 +73,7 @@ I'm a Computer Science undergrad passionate about turning data into decisions an
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/annanyaoberoi?theme=dark&font=Fira+Code&ext=heatmap" />
 </div>
----
+
 ## 📈 GitHub Stats
 
 <div align="center">
