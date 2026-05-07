@@ -1,28 +1,29 @@
-<h1 align="center">Hey there, I'm Annanya Oberoi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>CS Undergrad · Data Analyst · Python Developer · Cybersecurity Enthusiast</b><br/>
-  📍 Delhi, India &nbsp;|&nbsp; 🎓 3rd Year Computer Science Student
-</p>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5DCAA5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Annanya+Oberoi+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Cybersecurity+Enthusiast;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge"/>
-</p>
+**CS Undergrad (3rd Year) · Delhi, India**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annanya-oberoi-1b56a8275/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annanyaoberoi1405@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annanyaoberoi)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Internships-brightgreen?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science undergrad with a passion for turning data into decisions and building systems that matter. I work across **data analytics**, **Python development**, and **cybersecurity** — from training ML models to building security systems and interactive dashboards.
+I'm a Computer Science undergrad passionate about turning data into decisions and building systems that matter. I work across **Data Analytics**, **Python Development**, and **Cybersecurity** — from training ML models to designing security systems and interactive dashboards.
 
-- 🔍 Currently exploring **Machine Learning** and **Ethical Hacking**
-- 📊 Love building **Power BI dashboards** that tell clear data stories
+- 🔍 Exploring **Machine Learning** and **Ethical Hacking**
+- 📊 Building **Power BI dashboards** that tell clear data stories
 - 🐍 Python is my go-to language for everything analytical
 - 🔐 Fascinated by how systems can be both built *and* broken
-- 🚀 Always working on something new — check my repos below!
+- 🌱 Currently learning **Network Security** and **Deep Learning**
+- 💼 Looking for **internship opportunities** in Data / Cybersecurity
 
 ---
 
@@ -45,59 +46,67 @@ I'm a Computer Science undergrad with a passion for turning data into decisions 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Tools & Platforms**
+**Cybersecurity & Tools**
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 [Amazon Clone](https://github.com/annanyaoberoi/Amazon_clone) | Full UI clone of Amazon's homepage with responsive design | HTML, CSS, JS |
-| 🔐 [Security Project](https://github.com/annanyaoberoi/Security_project) | Web-based security system with authentication features | HTML, CSS, JS |
-| 📰 [Fake News Detection](https://github.com/annanyaoberoi/fake_news_detection) | ML model to classify news articles as real or fake | Python, Scikit-Learn, NLP |
-| 🏦 [Bank Management System](https://github.com/annanyaoberoi/bank_management_system) | CLI-based banking app with account operations | Python |
-| 🅿️ [Smart Parking System](https://github.com/annanyaoberoi/smart_parking) | Automated parking slot management system | C |
-| 📊 [Power BI Sales Dashboard](https://github.com/annanyaoberoi/Powerbi_sales_dashboard) | Interactive sales performance dashboard | Power BI |
-| 📦 [Power BI Blinkit Dashboard](https://github.com/annanyaoberoi/Powerbi_Blinkit_dashboard) | Blinkit delivery data visualization & insights | Power BI |
+| 🏷️ Project | 📝 Description | 🔧 Tech Stack |
+|-----------|----------------|--------------|
+| 🛒 [Amazon Clone](https://github.com/annanyaoberoi/Amazon_clone) | Full UI clone of Amazon's homepage with responsive design and product layout | HTML · CSS · JavaScript |
+| 🔐 [Security Project](https://github.com/annanyaoberoi/Security_project) | Web-based security system with authentication and access control features | HTML · CSS · JavaScript |
+| 📰 [Fake News Detection](https://github.com/annanyaoberoi/fake_news_detection) | ML model using NLP to classify news articles as real or fake | Python · Scikit-Learn · NLP |
+| 🏦 [Bank Management System](https://github.com/annanyaoberoi/bank_management_system) | CLI-based banking app supporting deposits, withdrawals & account management | Python |
+| 🅿️ [Smart Parking System](https://github.com/annanyaoberoi/smart_parking) | Automated parking slot management and allocation system | C |
+| 📊 [Power BI Sales Dashboard](https://github.com/annanyaoberoi/Powerbi_sales_dashboard) | Interactive sales performance dashboard with KPIs and trend analysis | Power BI · DAX |
+| 📦 [Power BI Blinkit Dashboard](https://github.com/annanyaoberoi/Powerbi_Blinkit_dashboard) | Blinkit delivery data visualization with outlet and item-level insights | Power BI · DAX |
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annanyaoberoi&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annanyaoberoi&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annanyaoberoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annanyaoberoi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annanyaoberoi&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annanyaoberoi&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=annanyaoberoi&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively looking for **internships and entry-level roles** in Data Analytics, Python Development, and Cybersecurity.
+I'm actively looking for **internships and entry-level roles** in Data Analytics, Python Development, and Cybersecurity. Feel free to reach out!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR-EMAIL-HERE">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annanya-oberoi-1b56a8275/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annanyaoberoi1405@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=annanyaoberoi&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
-<p align="center"><i>"Code. Analyze. Secure. Repeat."</i></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=annanyaoberoi&color=5DCAA5&style=flat-square&label=Profile+Views" />
+  <br/><br/>
+  <i>"Code. Analyze. Secure. Repeat."</i>
+</div>
