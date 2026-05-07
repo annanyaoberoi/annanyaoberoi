@@ -22,7 +22,7 @@ I'm a Computer Science undergrad passionate about turning data into decisions an
 - 📊 Building **Power BI dashboards** that tell clear data stories
 - 🐍 Python is my go-to language for everything analytical
 - 🔐 Fascinated by how systems can be both built *and* broken
-- 🌱 Currently learning **Network Security** and **Deep Learning**
+- 🌱 Currently learning **Network Security** and **Data Visualization**
 - 💼 Looking for **internship opportunities** in Data / Cybersecurity
 
 ---
@@ -48,12 +48,10 @@ I'm a Computer Science undergrad passionate about turning data into decisions an
 
 **Cybersecurity & Tools**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+[![Wazuh](https://img.shields.io/badge/Wazuh-006DE0?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
 ---
 
 ## 🚀 Featured Projects
