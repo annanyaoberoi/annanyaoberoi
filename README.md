@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Annanya Oberoi
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Annanya%20Oberoi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20•%20Data%20Analyst%20•%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Annanya%20Oberoi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20•%20Data%20Analyst%20•%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5DCAA5&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Annanya+%F0%9F%91%8B+Welcome+to+my+GitHub!;Python+%7C+Machine+Learning+%7C+Power+BI+%7C+Cybersecurity;Turning+data+into+decisions+%F0%9F%93%8A;Building+secure+and+intelligent+systems+%F0%9F%94%90;Open+to+Internships+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5DCAA5&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Annanya+%F0%9F%91%8B+Welcome+to+my+GitHub!;B.Tech+CSE+(4th+Year)+Student;Data+Analytics+%7C+Machine+Learning%7C+Cyber+Security;Building+secure+%26+intelligent+systems+%F0%9F%94%90;Open+to+Internships+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -62,16 +62,6 @@ print(me.goal())
 
 > **Code. Analyze. Secure. Repeat.**
 
----
-
-## 💼 Experience
-
-### Machine Learning Intern | CodSoft
-
-* Developed machine learning projects using Python and Scikit-Learn
-* Worked on data preprocessing, model training, and evaluation
-* Applied classification and prediction techniques on real-world datasets
-* Improved practical understanding of ML workflows
 
 ---
 
@@ -110,22 +100,13 @@ print(me.goal())
 
 | Project                     | Description                                                   | Tech Stack                |
 | --------------------------- | ------------------------------------------------------------- | ------------------------- |
-| 🔐 Wazuh Home Lab           | SIEM setup for log monitoring, threat detection and alerting  | Wazuh, Linux              |
+| 🔐 Wazuh Home Lab           | SIEM setup for log monitoring, threat detection and alerting  | Wazuh                     |
 | 📰 Fake News Detection      | NLP-based machine learning model for fake news classification | Python, NLP, Scikit-Learn |
 | 📊 Power BI Sales Dashboard | Interactive dashboard with KPIs and sales insights            | Power BI, DAX             |
 | 🏦 Bank Management System   | Banking operations system with account management             | Python                    |
 | 🅿️ Smart Parking System    | Automated parking allocation using greedy algorithms          | C                         |
 | 🛒 Amazon Clone             | Responsive Amazon homepage clone                              | HTML, CSS, JavaScript     |
 | 🔒 Security Project         | Authentication and access-control focused web project         | HTML, CSS, JavaScript     |
-
----
-
-## 🏆 Certifications
-
-* Machine Learning Internship – CodSoft
-* Cisco Introduction to Cybersecurity
-* Data Analytics Virtual Experience Programs
-* Python & Data Science Certifications
 
 ---
 
@@ -182,9 +163,9 @@ I'm actively looking for opportunities in:
 ✅ Data Analytics
 ✅ Cybersecurity
 ✅ Python Development
+✅ Software Development
 ✅ Machine Learning
 
-Feel free to connect with me and discuss projects, internships, technology, or collaboration opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/annanya-oberoi-1b56a8275/">
