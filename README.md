@@ -1,22 +1,32 @@
-<div align="center">
+# 👋 Hi, I'm Annanya Oberoi
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Annanya%20Oberoi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20%C2%B7%20Data%20Analyst%20%C2%B7%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Annanya%20Oberoi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20•%20Data%20Analyst%20•%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5DCAA5&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Annanya+%F0%9F%91%8B+—+welcome+to+my+corner!;Python+%7C+ML+%7C+Power+BI+%7C+Cybersecurity;Turning+data+into+decisions+%F0%9F%93%8A;Building+systems+that+can+be+both+made+%26+broken+%F0%9F%94%90;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5DCAA5&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Annanya+%F0%9F%91%8B+Welcome+to+my+GitHub!;Python+%7C+Machine+Learning+%7C+Power+BI+%7C+Cybersecurity;Turning+data+into+decisions+%F0%9F%93%8A;Building+secure+and+intelligent+systems+%F0%9F%94%90;Open+to+Internships+%F0%9F%9A%80" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/annanya-oberoi-1b56a8275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:annanyaoberoi1405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/annanyaoberoi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/annanyaoberoi">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annanya-oberoi-1b56a8275/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annanyaoberoi1405@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annanyaoberoi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/annanyaoberoi)
-
-<br/>
-
-![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Internships-Data%20%7C%20Cybersecurity%20%7C%20Dev-brightgreen?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=annanyaoberoi&color=5DCAA5&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-Data%20Analytics%20%7C%20Cybersecurity%20%7C%20Python-brightgreen?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=annanyaoberoi&color=5DCAA5&style=flat-square&label=Profile+Views"/>
+</p>
 
 ---
 
@@ -25,161 +35,163 @@
 ```python
 class Annanya:
     def __init__(self):
-        self.name        = "Annanya Oberoi"
-        self.degree      = "B.Tech in Computer Science (3rd Year)"
-        self.location    = "Delhi, India 🇮🇳"
-        self.languages   = ["Python", "C", "JavaScript", "HTML/CSS", "SQL"]
-        self.domains     = ["Data Analytics", "Machine Learning", "Cybersecurity"]
-        self.tools       = ["Power BI", "Wazuh", "Scikit-Learn", "Jupyter", "Git"]
-        self.learning    = ["Network Security", "Advanced Data Visualization"]
-        self.superpower  = "I build systems — and understand how to break them 🔐"
+        self.name = "Annanya Oberoi"
+        self.degree = "B.Tech Computer Science Engineering"
+        self.year = "4th Year"
+        self.location = "Delhi, India"
+        self.languages = ["Python", "C", "C++", "JavaScript", "SQL"]
+        self.domains = [
+            "Data Analytics",
+            "Machine Learning",
+            "Cybersecurity"
+        ]
+        self.tools = [
+            "Power BI",
+            "Wazuh",
+            "Scikit-Learn",
+            "Git",
+            "Jupyter"
+        ]
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something meaningful 🚀")
+    def goal(self):
+        return "Build intelligent, secure, and impactful solutions"
 
 me = Annanya()
-me.say_hi()
+print(me.goal())
 ```
 
-> *"Code. Analyze. Secure. Repeat."*
+> **Code. Analyze. Secure. Repeat.**
+
+---
+
+## 💼 Experience
+
+### Machine Learning Intern | CodSoft
+
+* Developed machine learning projects using Python and Scikit-Learn
+* Worked on data preprocessing, model training, and evaluation
+* Applied classification and prediction techniques on real-world datasets
+* Improved practical understanding of ML workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Data Analytics & Machine Learning
 
-**Data & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Cybersecurity & Tools
 
-**Cybersecurity & DevTools**
-
-![Wazuh](https://img.shields.io/badge/Wazuh-006DE0?style=for-the-badge&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
+![Wazuh](https://img.shields.io/badge/Wazuh-006DE0?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge\&logo=owasp\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+| Project                     | Description                                                   | Tech Stack                |
+| --------------------------- | ------------------------------------------------------------- | ------------------------- |
+| 🔐 Wazuh Home Lab           | SIEM setup for log monitoring, threat detection and alerting  | Wazuh, Linux              |
+| 📰 Fake News Detection      | NLP-based machine learning model for fake news classification | Python, NLP, Scikit-Learn |
+| 📊 Power BI Sales Dashboard | Interactive dashboard with KPIs and sales insights            | Power BI, DAX             |
+| 🏦 Bank Management System   | Banking operations system with account management             | Python                    |
+| 🅿️ Smart Parking System    | Automated parking allocation using greedy algorithms          | C                         |
+| 🛒 Amazon Clone             | Responsive Amazon homepage clone                              | HTML, CSS, JavaScript     |
+| 🔒 Security Project         | Authentication and access-control focused web project         | HTML, CSS, JavaScript     |
 
-| 🏷️ Project | 📝 Description | 🔧 Tech Stack | 🔗 |
-|:---|:---|:---|:---:|
-| 🛒 **Amazon Clone** | Full UI clone of Amazon's homepage with responsive design & product layout | `HTML` `CSS` `JavaScript` | [→](https://github.com/annanyaoberoi/Amazon_clone) |
-| 🔐 **Security Project** | Web-based security system with authentication and access control features | `HTML` `CSS` `JavaScript` | [→](https://github.com/annanyaoberoi/Security_project) |
-| 📰 **Fake News Detection** | NLP-powered ML model to classify news as real or fake | `Python` `Scikit-Learn` `NLP` | [→](https://github.com/annanyaoberoi/fake_news_detection) |
-| 🏦 **Bank Management System** | CLI banking app with deposits, withdrawals & account management | `Python` | [→](https://github.com/annanyaoberoi/bank_management_system) |
-| 🅿️ **Smart Parking System** | Automated parking slot management and allocation | `C` | [→](https://github.com/annanyaoberoi/smart_parking) |
-| 📊 **Power BI Sales Dashboard** | Interactive KPIs and sales trend analysis dashboard | `Power BI` `DAX` | [→](https://github.com/annanyaoberoi/Powerbi_sales_dashboard) |
-| 📦 **Power BI Blinkit Dashboard** | Delivery data visualization with outlet & item-level insights | `Power BI` `DAX` | [→](https://github.com/annanyaoberoi/Powerbi_Blinkit_dashboard) |
-| 🎓 **CodSoft ML Internship** | ML tasks completed during CodSoft internship program | `Python` `ML` | [→](https://github.com/annanyaoberoi/CODSOFT) |
-| 🛡️ **Wazuh Home Lab** | Built a SIEM home lab using Wazuh for real-time log monitoring, threat detection & security alerting | `Wazuh` `SIEM` `Linux` | [→](https://github.com/annanyaoberoi/wazuh-home-lab) |
+---
 
-</div>
+## 🏆 Certifications
+
+* Machine Learning Internship – CodSoft
+* Cisco Introduction to Cybersecurity
+* Data Analytics Virtual Experience Programs
+* Python & Data Science Certifications
 
 ---
 
 ## 💻 LeetCode Stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/annanyaoberoi?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/annanyaoberoi?theme=dark&font=Fira+Code&ext=heatmap"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annanyaoberoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=annanyaoberoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=5DCAA5&icon_color=5DCAA5&text_color=C9D1D9" width="55%"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annanyaoberoi&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=annanyaoberoi&theme=tokyonight&hide_border=true&background=0D1117&stroke=5DCAA5&ring=5DCAA5&fire=FF6B6B&currStreakLabel=5DCAA5" width="55%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annanyaoberoi/annanyaoberoi/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annanyaoberoi/annanyaoberoi/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/annanyaoberoi/annanyaoberoi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=annanyaoberoi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=annanyaoberoi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5DCAA5&line=5DCAA5&point=FF6B6B" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annanyaoberoi&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🎯 What I Bring
 
-<div align="center">
+* 📊 Data Analytics and Visualization using Power BI
+* 🤖 Machine Learning and NLP Projects
+* 🔐 Cybersecurity and SIEM Fundamentals
+* 🐍 Strong Python Development Skills
+* 🌐 Front-End Development Experience
+* 📚 Continuous Learning Mindset
+* ⚡ Problem Solving through Data Structures & Algorithms
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  🔍  End-to-end ML pipeline development (NLP, classification) ║
-║  📊  Business dashboards & visual storytelling (Power BI)     ║
-║  🔐  Security-minded thinking — build it, then harden it      ║
-║  🌐  Front-end development with responsive UI design          ║
-║  🐍  Python-first approach to automation and analysis         ║
-║  📚  Fast learner actively growing in Network Security        ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+---
 
-</div>
+## 📈 Current Focus
+
+* Network Security
+* SOC & SIEM Technologies
+* Advanced Data Visualization
+* Machine Learning Projects
+* LeetCode Problem Solving
 
 ---
 
 ## 📫 Let's Connect
 
-*Actively looking for internships in **Data Analytics**, **Python Development**, and **Cybersecurity**. I'd love to chat!*
+I'm actively looking for opportunities in:
 
-<div align="center">
+✅ Data Analytics
+✅ Cybersecurity
+✅ Python Development
+✅ Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annanya-oberoi-1b56a8275/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annanyaoberoi1405@gmail.com)
+Feel free to connect with me and discuss projects, internships, technology, or collaboration opportunities.
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/annanya-oberoi-1b56a8275/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+</p>
