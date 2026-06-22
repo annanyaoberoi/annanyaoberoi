@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Annanya Oberoi
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Annanya%20Oberoi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20•%20Data%20Analyst%20•%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17"/>
 </p>
