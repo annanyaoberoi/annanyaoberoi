@@ -163,7 +163,6 @@ I'm actively looking for opportunities in:
 ✅ Python Development
 ✅ Software Development
 ✅ Machine Learning
-<!-- ████ FOOTER BANNER ████ -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/annanya-oberoi-1b56a8275/">
